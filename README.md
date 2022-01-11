@@ -1,4 +1,4 @@
-<h1>Avdhesh Pal</h1>
+<h1>Shivam Sharma</h1>
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate full stack [MERN] web developer...</h3>
 
